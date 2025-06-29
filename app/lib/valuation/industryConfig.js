@@ -1,0 +1,1 @@
+// industryConfig.js placeholder 

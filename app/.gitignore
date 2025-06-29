@@ -1,0 +1,20 @@
+# Dependency & build folders
+node_modules/
+.next/
+.cursor/
+
+# System & config files
+.env
+.DS_Store
+
+# Optional – temporarily ignore these folders if you’re not using Git to track them yet
+app/api/
+app/blog/
+app/components/
+app/homepage/
+app/lib/
+app/styles/
+app/valuation/
+app/valuation-backend/
+app/valuation-report/
+public/

@@ -1,4 +1,5 @@
 'use client'
+// Last updated: December 2024 - Homepage with AI-powered business search and lead capture
 
 import { useState, useEffect, useRef } from 'react'
 import { supabase } from './lib/supabase'
